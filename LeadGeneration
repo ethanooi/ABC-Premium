@@ -1,0 +1,8 @@
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https:&#x2F;&#x2F;www.regovtech.com&#x2F;wp-content&#x2F;uploads&#x2F;2021&#x2F;06&#x2F;Regov-Logo-A.jpeg"
+  intent="WELCOME"
+  chat-title="ABC-LeadGeneration"
+  agent-id="6d196945-a3ac-4469-8748-e30cc9c64d97"
+  language-code="en"
+></df-messenger>
